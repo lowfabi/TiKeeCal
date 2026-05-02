@@ -1,10 +1,10 @@
-# TiKeeCal – Webshop (Daten- und Informatikrecht, SS 2026)
+# TiKeeCal - Webshop (Daten- und Informatikrecht, SoSe 2026)
 
-Fiktiver Webshop für eine Kalender-App. LVA-Abgabe an der TU Wien.
+Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht.  
 
 ## Produkt & Firma
 
-- **Produkt:** TiKeeCal – KI-Kalender-App mit Spracheingabe, Auto-Sync und geteilten Kalendern
+- **Produkt:** TiKeeCal: KI-Kalender App mit Spracheingabe, Auto-Sync und geteilten Kalendern
 - **Firma:** TiKeeCal Software GmbH, Wien
 - **Geschäftsmodell:** Freemium (Basis gratis, Premium 4,99 €/Monat)
 - **Zielgruppe:** Studierende und junge Berufstätige
@@ -25,11 +25,11 @@ Fiktiver Webshop für eine Kalender-App. LVA-Abgabe an der TU Wien.
 
 | Name       | Verworfen weil                                    |
 | ---------- | ------------------------------------------------- |
-| Timekeeper | Existierende Software-Produkte in gleicher Nische |
-| FreeTime   | Amazon FreeTime (Klasse 9)                        |
-| ReCal      | reCal AI App, Recal.dev API, Princeton ReCal      |
+| Timekeeper | Mehrere Einträge schon vorhanden (Klasse 9 und 42 problematisch) |
+| FreeTime   | Amazon FreeTime (Klasse 9 problematisch)                        |
+| ReCal      | Mehrere Einträge schon vorhanden (Klasse 9 und 42 problematisch)      |
 
-**TiKeeCal** gewählt – Fantasiename (Time + Keeper + Calendar), keine Treffer bei Websuche.
+Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht eindeutig und einfach auszusprechen, dafür  keine angemeldeten Marken bei Suche.
 
 ### Nizza-Klassen
 
