@@ -2,13 +2,6 @@
 
 Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht.  
 
-## Produkt & Firma
-
-- **Produkt:** TiKeeCal: KI-Kalender App mit Spracheingabe, Auto-Sync und geteilten Kalendern
-- **Firma:** TiKeeCal Software GmbH, Wien
-- **Geschäftsmodell:** Freemium (Basis gratis, Premium 4,99 €/Monat)
-- **Zielgruppe:** Studierende und junge Berufstätige
-
 ## Fortschritt
 
 - [x] Aufgabe 0 – Produkt/Firma/Geschäftsmodell definiert
@@ -19,9 +12,17 @@ Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht
 - [ ] Aufgabe 5 – Datenschutz
 - [ ] Aufgabe 6 – Gewerbe (Kontakt + Impressum)
 
-## Recherche & Entscheidungen
+## Dokumentation
 
-### Namenfindung
+### Aufgabe 0 - Vorbereitung
+
+- **Produkt:** TiKeeCal: KI-Kalender App mit Spracheingabe, Auto-Sync und geteilten Kalendern
+- **Firma:** TiKeeCal Software GmbH, Wien
+- **Geschäftsmodell:** Freemium (Basis gratis, Premium 4,99 €/Monat)
+- **Zielgruppe:** Studierende und junge Berufstätige
+- **Standort:** Wien
+
+#### Namenfindung
 
 | Name       | Verworfen weil                                    |
 | ---------- | ------------------------------------------------- |
@@ -31,9 +32,47 @@ Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht
 
 Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht eindeutig und einfach auszusprechen, dafür  keine angemeldeten Marken bei Suche.
 
-### Nizza-Klassen
 
-- TODO
+### Aufgabe 1 - Barrierefreiheit
+- Die Website ist WCAG 2.2 AA konform
+- Die Website ist visuell ansprechend und konsistent gestaltet (Farbschema, Typografie, Layout).
+- Die Website enthält eine Barrierefreiheitserklärung.
+
+### Aufgabe 2 - Urheberrecht
+- Integrieren Sie mehrere Medienarten (z. B. Bilder, Grafiken, Videos, Sounds, Schriftarten, Texte).
+- Dokumentieren Sie die Urheberrechtshinweise und Lizenzen aller verwendeten Medien.
+- Stellen Sie die Verwertungsrechte der Medien sicher, insb. für:
+	- Bilder, Grafiken, etc
+	- Videos, Animationen etc
+	- Musik, Soundeffekte
+	- Schriftarten
+	- Texte
+
+### Aufgabe 3 - Marke
+- Designen Sie drei unterschiedliche Markenformen (Wortmarke + Wortbildmarke gelten als redundant und zählen daher nur als eine Markenform.)
+- Erstellen Sie eine „About us“ Seite, die Ihre Marken und deren Bedeutung erklärt
+- Ordnen Sie Ihre Marken der passenden Nizza-Klassen zu
+- Stellen Sie sicher, dass Sie kein Markenrecht verletzen. Achten Sie insbesondere auf die
+	- Wortwahl
+	- Bildwahl
+	- Farbwahl
+	- Positionswahl
+	- Formwahl
+	- etc.
+
+### Aufgabe 4 - Lizenz
+- Erstellen Sie eine „Lizenz“ Seite
+- Definieren Sie welche Nutzungsrechte durch den Kauf erworben werden
+- Definieren Sie welche Rechte beim Unternehmen verbleiben
+- Formulieren Sie Haftungsbeschränkungen, um Ihre eigene Haftung angemessen zu reduzieren
+
+### Aufgabe 5 - Datenschutz
+- Erstellen Sie eine Datenschutzerklärung
+- Berücksichtigen Sie typische Webshop-Prozesse (z. B. Kontaktformular, Analyse-Tools, Cookies, auch wenn diese auf Ihrer Seite nur gemockt sind).
+
+### Aufgabe 6 - Gewerbe
+- Erstellen Sie eine Kontaktseite
+- Erstellen Sie ein Impressum das den Pflichten gemäß § 24 Mediengesetz bzw. den jeweiligen nationalen Vorschriften entspricht.
 
 ## Medienverzeichnis
 
@@ -41,7 +80,7 @@ Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht ei
 | -------------- | ------ | ------ |
 | *wird ergänzt* |        |        |
 
-## Technik
-
-- HTML & CSS 
+## Technik-Stack
+- HTML & CSS  
   - Pico CSS Framework für einfachere responsiveness und besseres Aussehen
+  - axe Accessibility Linter Extension
