@@ -1,5 +1,3 @@
-# TiKeeCal
-
 # TiKeeCal – Webshop (Daten- und Informatikrecht, SS 2026)
 
 Fiktiver Webshop für eine Kalender-App. LVA-Abgabe an der TU Wien.
@@ -45,4 +43,5 @@ Fiktiver Webshop für eine Kalender-App. LVA-Abgabe an der TU Wien.
 
 ## Technik
 
-- TODO
+- HTML & CSS 
+  - Pico CSS Framework für einfachere responsiveness und besseres Aussehen
