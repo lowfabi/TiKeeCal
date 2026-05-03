@@ -35,14 +35,14 @@ Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht ei
 
 ### Aufgabe 1 - Barrierefreiheit
 - Die Website ist WCAG 2.2 AA konform
-  - Sowohl Die Website https://wave.webaim.org/, als auch die "axe Dev tools for Accessibility  testing" Browser Extension prüfen nur WCAG AA bzw WCAG 2.1 AA. Da die unterschiede zwischen 2.1 und 2.2 aber laut meiner Recherche entweder für meine Website nicht relevant sind, oder direkt von meinem CSS Framework gehandhabt werden, ist das in Ordnung. 
+  - Sowohl Die Website https://wave.webaim.org/, als auch die "axe Dev tools for Accessibility  testing" Browser Extension prüfen nur WCAG AA bzw WCAG 2.1 AA. Da die unterschiede zwischen 2.1 und 2.2 aber laut meiner Recherche entweder für meine Website nicht relevant sind, oder direkt von meinem CSS Framework gehandhabt werden, ist das in Ordnung.
+  - Laut Inspector for WCAG Evaluation ist im "Dark Mode" der Kontrast nicht hoch genug. Das liegt aber daran, dass das Tool irgendwie die Falschen HEX-Codes für die Farben ausliest.
+  - Das CSS Framework sorgt für WCAG AA konforme Kontrastverhältnisse, Sichtbare Fokus-States, Responsive Schriftgrößen und Saubere Typografie, sowie der automatischen light/dark mode unterstützung und kompletter responsiveness.
+  - Sprache auf html Attribut einstellen!
+  - aria-label!
+  - Alternativtest für Bilder und co
 
-- Die Website ist visuell ansprechend und konsistent gestaltet (Farbschema, Typografie, Layout).
-- Das CSS Framework sorgt für WCAG AA konforme Kontrastverhältnisse, Sichtbare Fokus-States, Responsive Schriftgrößen und Saubere Typografie, sowie der automatischen light/dark mode unterstützung und kompletter responsiveness.
-- Sprache auf html Attribut!
-- aria-label!
-- Alternativtest für Bilder und co
-- In meiner Barrierrefreiheitserklärung habe ich genau das nochmal festgeschrieben
+- Barrierrefreiheitserklärung gemäß BaFG
 
 ### Aufgabe 2 - Urheberrecht
 - Integrieren Sie mehrere Medienarten (z. B. Bilder, Grafiken, Videos, Sounds, Schriftarten, Texte).
@@ -82,9 +82,12 @@ Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht ei
 
 ## Medienverzeichnis
 
-| Medium         | Quelle | Lizenz |
-| -------------- | ------ | ------ |
-| *wird ergänzt* |        |        |
+Bei der Medien-Einbindung bin ich auf Barrierrefreiheitsprobleme gestoßen, wenn man mit Iframes arbeitet (Laut Scan). Daher habe ich extra Iframes vermieden. 
+
+| Medium | Quelle                                                       | Lizenz |
+| ------ | ------------------------------------------------------------ | ------ |
+| Bild   | [Wiki Media](https://commons.wikimedia.org/wiki/File:Wikimania_animation_4.webm) | CC0    |
+|        |                                                              |        |
 
 ## Technik-Stack
 - HTML & CSS  
