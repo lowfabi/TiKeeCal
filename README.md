@@ -84,10 +84,11 @@ Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht ei
 
 Bei der Medien-Einbindung bin ich auf Barrierrefreiheitsprobleme gestoßen, wenn man mit Iframes arbeitet (Laut Scan). Daher habe ich extra Iframes vermieden. 
 
-| Medium | Quelle                                                       | Lizenz |
-| ------ | ------------------------------------------------------------ | ------ |
-| Bild   | [Wiki Media](https://commons.wikimedia.org/wiki/File:Wikimania_animation_4.webm) | CC0    |
-|        |                                                              |        |
+| Medium | Quelle                                                       | Lizenz       |
+| ------ | ------------------------------------------------------------ | ------------ |
+| Video  | [Wiki Media](https://commons.wikimedia.org/wiki/File:Wikimania_animation_4.webm) | CC0 1.0      |
+| Bild   | [Wiki Media](https://commons.wikimedia.org/wiki/File:Pessoa_de_perfil_utilizando_um_smartphone.png) | CC BY-SA 4.0 |
+|        |                                                              |              |
 
 ## Technik-Stack
 - HTML & CSS  
