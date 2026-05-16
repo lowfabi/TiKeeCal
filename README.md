@@ -5,9 +5,9 @@ Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht
 ## Fortschritt
 
 - [x] Aufgabe 0 – Produkt/Firma/Geschäftsmodell definiert
-- [ ] Aufgabe 1 – Barrierefreiheit (WCAG 2.2 AA)
-- [ ] Aufgabe 2 – Urheberrecht (Medien + Lizenzdokumentation)
-- [ ] Aufgabe 3 – Marke (3 Markenformen, Nizza-Klassen)
+- [x] Aufgabe 1 – Barrierefreiheit (WCAG 2.2 AA)
+- [x] Aufgabe 2 – Urheberrecht (Medien + Lizenzdokumentation)
+- [x] Aufgabe 3 – Marke (3 Markenformen, Nizza-Klassen)
 - [ ] Aufgabe 4 – Lizenz
 - [ ] Aufgabe 5 – Datenschutz
 - [ ] Aufgabe 6 – Gewerbe (Kontakt + Impressum)
@@ -21,16 +21,6 @@ Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht
 - **Geschäftsmodell:** Freemium (Basis gratis, Premium 4,99 €/Monat)
 - **Zielgruppe:** Studierende und junge Berufstätige
 - **Standort:** Wien
-
-#### Namenfindung
-
-| Name       | Verworfen weil                                    |
-| ---------- | ------------------------------------------------- |
-| Timekeeper | Mehrere Einträge schon vorhanden (Klasse 9 und 42 problematisch) |
-| FreeTime   | Amazon FreeTime (Klasse 9 problematisch)                        |
-| ReCal      | Mehrere Einträge schon vorhanden (Klasse 9 und 42 problematisch)      |
-
-Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht eindeutig und einfach auszusprechen, dafür  keine angemeldeten Marken bei Suche.
 
 
 ### Aufgabe 1 - Barrierefreiheit
@@ -78,17 +68,10 @@ Es wurde **TiKeeCal**. Fantasiename (Time + Keeper + Calendar) ist zwar nicht ei
 
 ### Aufgabe 6 - Gewerbe
 - Erstellen Sie eine Kontaktseite
+
 - Erstellen Sie ein Impressum das den Pflichten gemäß § 24 Mediengesetz bzw. den jeweiligen nationalen Vorschriften entspricht.
 
-## Medienverzeichnis
-
-Bei der Medien-Einbindung bin ich auf Barrierrefreiheitsprobleme gestoßen, wenn man mit Iframes arbeitet (Laut Scan). Daher habe ich extra Iframes vermieden. 
-
-| Medium | Quelle                                                       | Lizenz       |
-| ------ | ------------------------------------------------------------ | ------------ |
-| Video  | [Wiki Media](https://commons.wikimedia.org/wiki/File:Wikimania_animation_4.webm) | CC0 1.0      |
-| Bild   | [Wiki Media](https://commons.wikimedia.org/wiki/File:Pessoa_de_perfil_utilizando_um_smartphone.png) | CC BY-SA 4.0 |
-|        |                                                              |              |
+  
 
 ## Technik-Stack
 - HTML & CSS  
