@@ -8,9 +8,9 @@ Fiktiver Webshop für eine Kalender-App für die LVA "Daten- und Informatikrecht
 - [x] Aufgabe 1 – Barrierefreiheit (WCAG 2.2 AA)
 - [x] Aufgabe 2 – Urheberrecht (Medien + Lizenzdokumentation)
 - [x] Aufgabe 3 – Marke (3 Markenformen, Nizza-Klassen)
-- [ ] Aufgabe 4 – Lizenz
-- [ ] Aufgabe 5 – Datenschutz
-- [ ] Aufgabe 6 – Gewerbe (Kontakt + Impressum)
+- [x] Aufgabe 4 – Lizenz
+- [x] Aufgabe 5 – Datenschutz
+- [x] Aufgabe 6 – Gewerbe (Kontakt + Impressum)
 
 ## Dokumentation
 
